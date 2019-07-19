@@ -1,0 +1,7 @@
+C:\Users\peter.bozov\source\repos\ticTac\tickTackToe\bin\Debug\tickTackToe.exe.config
+C:\Users\peter.bozov\source\repos\ticTac\tickTackToe\bin\Debug\tickTackToe.exe
+C:\Users\peter.bozov\source\repos\ticTac\tickTackToe\bin\Debug\tickTackToe.pdb
+C:\Users\peter.bozov\source\repos\ticTac\tickTackToe\obj\Debug\tickTackToe.csprojAssemblyReference.cache
+C:\Users\peter.bozov\source\repos\ticTac\tickTackToe\obj\Debug\tickTackToe.csproj.CoreCompileInputs.cache
+C:\Users\peter.bozov\source\repos\ticTac\tickTackToe\obj\Debug\tickTackToe.exe
+C:\Users\peter.bozov\source\repos\ticTac\tickTackToe\obj\Debug\tickTackToe.pdb
